@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#1a2f5e"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#f5c842"/>
+  <rect x="0" y="622" width="1200" height="8" fill="#f5c842"/>
+
+  <!-- Background accent -->
+  <rect x="780" y="0" width="420" height="630" fill="#0d1f42" opacity="0.6"/>
+
+  <!-- Constituency number badge -->
+  <rect x="80" y="60" width="160" height="40" rx="6" fill="#f5c842"/>
+  <text x="160" y="87" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#1a2f5e" text-anchor="middle">Constituency No. 25</text>
+
+  <!-- Title -->
+  <text x="80" y="165" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">Mylapore</text>
+  <text x="80" y="230" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#f5c842">Assembly Constituency</text>
+  <text x="80" y="275" font-family="Arial, sans-serif" font-size="22" fill="#9cb3d8">Chennai District · Tamil Nadu · Election Report</text>
+
+  <!-- Divider -->
+  <rect x="80" y="300" width="580" height="3" fill="#f5c842" opacity="0.4"/>
+
+  <!-- Features -->
+  <text x="80" y="345" font-family="Arial, sans-serif" font-size="19" fill="#c5d5ef">✅  Election results from 1952 to 2021</text>
+  <text x="80" y="385" font-family="Arial, sans-serif" font-size="19" fill="#c5d5ef">✅  Party-wise votes, margins &amp; vote share</text>
+  <text x="80" y="425" font-family="Arial, sans-serif" font-size="19" fill="#c5d5ef">✅  Alliance details for every election year</text>
+  <text x="80" y="465" font-family="Arial, sans-serif" font-size="19" fill="#c5d5ef">✅  Chief Minister &amp; Opposition Leader per term</text>
+  <text x="80" y="505" font-family="Arial, sans-serif" font-size="19" fill="#c5d5ef">✅  Long-term trend charts — seats, turnout, margin</text>
+
+  <!-- Author box -->
+  <rect x="80" y="545" width="620" height="48" rx="8" fill="#0d1f42" stroke="#f5c842" stroke-width="1"/>
+  <text x="100" y="576" font-family="Arial, sans-serif" font-size="18" fill="#f5c842" font-weight="700">Prepared by Dr. Sundararaman Chintamani</text>
+
+  <!-- Right side decoration -->
+  <text x="820" y="200" font-family="Arial, sans-serif" font-size="110" font-weight="800" fill="#f5c842" opacity="0.12">25</text>
+  <text x="820" y="300" font-family="Arial, sans-serif" font-size="26" fill="#9cb3d8" opacity="0.5">16 Elections</text>
+  <text x="820" y="345" font-family="Arial, sans-serif" font-size="26" fill="#9cb3d8" opacity="0.5">1952 – 2021</text>
+  <text x="820" y="390" font-family="Arial, sans-serif" font-size="26" fill="#9cb3d8" opacity="0.5">Chennai South LS</text>
+
+  <!-- Party bubbles -->
+  <circle cx="850" cy="500" r="32" fill="#c94c2e" opacity="0.85"/>
+  <text x="850" y="507" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">ADMK</text>
+  <circle cx="930" cy="500" r="32" fill="#e88c10" opacity="0.85"/>
+  <text x="930" y="507" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">DMK</text>
+  <circle cx="1010" cy="500" r="32" fill="#2e8b57" opacity="0.85"/>
+  <text x="1010" y="507" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">INC</text>
+  <circle cx="1090" cy="500" r="32" fill="#1a5fa8" opacity="0.85"/>
+  <text x="1090" y="507" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#fff" text-anchor="middle">BJP</text>
+</svg>
